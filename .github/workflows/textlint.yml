@@ -20,7 +20,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          npm ci || npm i --no-save textlint @textlint/markdown textlint-rule-preset-ja-technical-writing textlint-rule-preset-jtf-style textlint-rule-no-dead-link
+          npm i --no-save textlint @textlint/textlint-plugin-markdown textlint-rule-preset-ja-technical-writing textlint-rule-preset-jtf-style textlint-rule-no-dead-link
 
       - name: Run textlint
         run: |
