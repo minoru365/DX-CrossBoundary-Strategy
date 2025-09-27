@@ -9,13 +9,18 @@
       "ja-no-abusage": true,
       "max-kanji-continuous-len": { "max": 8 },
       "no-exclamation-question-mark": false,
-      "ja-no-mixed-period": { "allowPeriodMarks": ["。", "."] },
+      "ja-no-mixed-period": false,
+      "no-mix-dearu-desumasu": false,
+      "sentence-length": { "max": 200 },
+      "max-ten": false,
+      "no-doubled-joshi": false,
       "no-dead-link": false
     },
     "preset-jtf-style": {
       "2.1.2.漢字": false,
       "2.1.5.カタカナ": false,
-      "2.2.1.ひらがなと漢字の使い分け": false
+      "2.2.1.ひらがなと漢字の使い分け": false,
+      "4.2.7.コロン(：)": false
     },
     "no-dead-link": {
       "ignoreRedirects": true,
