@@ -1,0 +1,18 @@
+# Ignore OS and editor files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+.history/
+
+# Node/npm artifacts (in case of tooling)
+node_modules/
+package-lock.json
+
+# Python (in case of tooling)
+__pycache__/
+*.pyc
+
+# Logs
+*.log
