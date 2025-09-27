@@ -2,6 +2,7 @@
 
 ![markdownlint](https://github.com/minoru365/DX-CrossBoundary-Strategy/actions/workflows/markdownlint.yml/badge.svg)
 ![link-check](https://github.com/minoru365/DX-CrossBoundary-Strategy/actions/workflows/link-check.yml/badge.svg)
+![textlint](https://github.com/minoru365/DX-CrossBoundary-Strategy/actions/workflows/textlint.yml/badge.svg)
 
 本リポジトリは、越境型DXの方針説明資料をMarkdownで公開するものです。
 
@@ -19,6 +20,8 @@
 - `DX_CrossBoundary_Strategy.md` — 方針説明資料本文
 - `.markdownlint.json` — Markdown Lintの設定
 - `.github/workflows/markdownlint.yml` — PR/Push時にLintを自動実行
+- `.github/workflows/link-check.yml` — PR/Push時にリンク切れを検出
+- `.github/workflows/textlint.yml` — PR/Push時に日本語文書のlintを実行
 - `.gitignore` — OS/エディタの不要ファイルを除外
 
 ## 貢献（任意）
