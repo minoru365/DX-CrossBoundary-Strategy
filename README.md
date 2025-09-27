@@ -1,5 +1,8 @@
 # 越境型DX推進 方針説明資料
 
+![markdownlint](https://github.com/minoru365/DX-CrossBoundary-Strategy/actions/workflows/markdownlint.yml/badge.svg)
+![link-check](https://github.com/minoru365/DX-CrossBoundary-Strategy/actions/workflows/link-check.yml/badge.svg)
+
 本リポジトリは、越境型DXの方針説明資料をMarkdownで公開するものです。
 
 - 主要ドキュメント: `DX_CrossBoundary_Strategy.md`
