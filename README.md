@@ -6,13 +6,13 @@
 
 本リポジトリは、越境型DXの方針説明資料をMarkdownで公開するものです。
 
-- 主要ドキュメント: `DX_CrossBoundary_Strategy.md`
+- 主要ドキュメント: `docs/DX_CrossBoundary_Strategy.md`
 - 目的: 既存の効率化の成果を土台に、越境による価値創出へ踏み出す現実的な第一歩を提示
 - トピック: チームビルド、リーダーシップ、推進方法論（PDCA/OODAの使い分け）、阻害要因と突破策、ロードマップ、補章（ガバナンス／AI活用）
 
 ## ファイル構成
 
-- `DX_CrossBoundary_Strategy.md` — 方針説明資料本文
+- `docs/DX_CrossBoundary_Strategy.md` — 方針説明資料本文
 - `.markdownlint.json` — Markdown Lintの設定
 - `.github/workflows/markdownlint.yml` — PR/Push時にLintを自動実行
 - `.github/workflows/link-check.yml` — PR/Push時にリンク切れを検出
