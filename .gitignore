@@ -16,3 +16,7 @@ __pycache__/
 
 # Logs
 *.log
+
+# PPTX生成物
+*.pptx
+*_pptx.cjs
